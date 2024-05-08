@@ -6,4 +6,4 @@ html was used in building the application. different html elements like <div> we
 on the other hand css was used to style and make the app more appealing
 
 # final app
--[here is the final app](/assets/Screenshot%202024-05-08%20194844.png)
+![here is the final app](/assets/Screenshot%202024-05-08%20194844.png)
