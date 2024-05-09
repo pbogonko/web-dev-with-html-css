@@ -1,4 +1,4 @@
-# web-dev-with-html-css
+# web development with html and css
 this is a simple front-end for  a QR  scanner web application. this  application illustrates how css and html can be used to create cool web application.
 
 # where html and css are used
